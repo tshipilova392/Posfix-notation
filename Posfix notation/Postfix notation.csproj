@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ArithmeticExpression\ArithmeticExpression.csproj">
+      <Project>{f5f21c0e-7b7b-40d1-afc5-6a035098226c}</Project>
+      <Name>ArithmeticExpression</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

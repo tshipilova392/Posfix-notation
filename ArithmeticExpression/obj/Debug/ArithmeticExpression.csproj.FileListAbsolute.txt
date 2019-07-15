@@ -1,0 +1,5 @@
+C:\Users\Tatiana\Documents\C#Projects\PostfixNotation\Posfix notation\ArithmeticExpression\bin\Debug\ArithmeticExpression.dll
+C:\Users\Tatiana\Documents\C#Projects\PostfixNotation\Posfix notation\ArithmeticExpression\bin\Debug\ArithmeticExpression.pdb
+C:\Users\Tatiana\Documents\C#Projects\PostfixNotation\Posfix notation\ArithmeticExpression\obj\Debug\ArithmeticExpression.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Documents\C#Projects\PostfixNotation\Posfix notation\ArithmeticExpression\obj\Debug\ArithmeticExpression.dll
+C:\Users\Tatiana\Documents\C#Projects\PostfixNotation\Posfix notation\ArithmeticExpression\obj\Debug\ArithmeticExpression.pdb

@@ -5,3 +5,6 @@ C:\Users\Tatiana\Documents\C#Projects\PostfixNotation\Posfix notation\Posfix not
 C:\Users\Tatiana\Documents\C#Projects\PostfixNotation\Posfix notation\Posfix notation\obj\Debug\Postfix notation.csproj.CoreCompileInputs.cache
 C:\Users\Tatiana\Documents\C#Projects\PostfixNotation\Posfix notation\Posfix notation\obj\Debug\Posfix notation.exe
 C:\Users\Tatiana\Documents\C#Projects\PostfixNotation\Posfix notation\Posfix notation\obj\Debug\Posfix notation.pdb
+C:\Users\Tatiana\Documents\C#Projects\PostfixNotation\Posfix notation\Posfix notation\bin\Debug\ArithmeticExpression.dll
+C:\Users\Tatiana\Documents\C#Projects\PostfixNotation\Posfix notation\Posfix notation\bin\Debug\ArithmeticExpression.pdb
+C:\Users\Tatiana\Documents\C#Projects\PostfixNotation\Posfix notation\Posfix notation\obj\Debug\Postfix notation.csproj.CopyComplete
